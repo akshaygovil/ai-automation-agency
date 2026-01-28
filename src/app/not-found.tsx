@@ -18,7 +18,7 @@ export default function NotFound() {
       </h1>
 
       <p style={{ fontSize: "20px", opacity: 0.8, marginBottom: "2rem" }}>
-        Looks like you've wandered off the training plan.
+        Looks like you've wandered off the training plan. fix this
       </p>
 
       <a
